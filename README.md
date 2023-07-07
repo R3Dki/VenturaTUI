@@ -1,2 +1,2 @@
-# ColorfulTUI
-A Text User Interface Library that makes creating cool UI's easy.
+# VenturaTUI
+A Text User Interface Library that makes creating TUIs very easy.
